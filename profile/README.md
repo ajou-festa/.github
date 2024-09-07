@@ -24,6 +24,7 @@
 
 # 🦄 2024-1학기 동아리 박람회 (v1)
 
+- 운영 기간 : 2024.03.04 - 2024.03.05
 - 프론트엔드 : https://github.com/ajou-festa/client/tree/v1
 - 백엔드 : https://github.com/ajou-festa/server/tree/club
 - 누적 방문자 수 : 649명 (6400view)
@@ -68,6 +69,7 @@
 
 # 🤠 2024-2학기 동아리 박람회 (v2)
 
+- 운영 기간 : 2024.09.02 - 2024.09.03
 - 프론트엔드 : https://github.com/ajou-festa/client/tree/v2
 - 백엔드 : https://github.com/ajou-festa/server/tree/club2
 - 누적 방문자 수 : 430명 (2600view)
@@ -81,7 +83,7 @@
         <th style="width:30vw;"> 전체 부스 목록</th>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/ajou-festa/.github/main/profile/assets/v2/pwa.png"></td>
+        <td><img src="https://raw.githubusercontent.com/ajou-festa/.github/main/profile/assets/v2/pwa.gif"></td>
         <td> <img src="https://raw.githubusercontent.com/ajou-festa/.github/main/profile/assets/v2/지도-드래그.gif"></td>
         <td><img src="https://raw.githubusercontent.com/ajou-festa/.github/main/profile/assets/v2/동아리-전체-리스트.gif"></td>   
     </tr>
